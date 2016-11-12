@@ -1,7 +1,7 @@
 public claseA{
 private String x;
  private int y;
- 
+ private int z;
 
 public ClaseA(){
 x = "";
